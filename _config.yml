@@ -83,9 +83,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  name             : "xiyuan.wang"
+  avatar           : "header.jpg"
+  bio              : "I'm currently a student in BUPT. A software engineer working primarily on Python, Java and C++ applications."
   location         : "Somewhere"
   email            :
   uri              :
